@@ -1,5 +1,4 @@
 # Machine-learning-products-prediction
-# Machine-learning-products-prediction
 
 ## The Data
 
